@@ -5,7 +5,7 @@
 ####  Стек
 
 - **PYTHON**: PYTHON 3.11.9
--**DJANGO**: [DJANGO 4.2.8](https://docs.djangoproject.com/en/4.2/)
+- **DJANGO**: [DJANGO 4.2.8](https://docs.djangoproject.com/en/4.2/)
 - **ORM**: Django ORM
 - **База данных**: [PostgreSQL](https://www.postgresql.org/)
 
