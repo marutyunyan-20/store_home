@@ -92,55 +92,6 @@
 │   ├── views.py
 
 
-├── static/
-│   ├── deps/
-│   │   ├── css/
-│   │   │   ├── bootstrap/
-│   │   │   │   ├── bootstrap.min.css
-│   │   │   ├── my_css.css
-│   │   │   ├── my_footer_css.css
-│   │   ├── favicon/
-│   │   │   ├── android-chrome-192x192.png
-│   │   │   ├── android-chrome-512x512.png
-│   │   │   ├── apple-touch-icon.png
-│   │   │   ├── favicon-16x16.png
-│   │   │   ├── favicon-32x32.png
-│   │   │   ├── favicon.ico
-│   │   │   ├── site.webmanifest
-│   │   ├── icons/
-│   │   │   ├── basket2-fill.svg
-│   │   │   ├── box-arrow-in-left.svg
-│   │   │   ├── box-arrow-in-right.svg
-│   │   │   ├── cart-plus.svg
-│   │   │   ├── facebook.svg
-│   │   │   ├── github.svg
-│   │   │   ├── google.svg
-│   │   │   ├── grid-fill.svg
-│   │   │   ├── trash3-fill.svg
-│   │   ├── images/
-│   │   │   ├── baseavatar.jpg
-│   │   │   ├── bg-image.jpg
-│   │   │   ├── goods/
-│   │   │   │   ├── bedside table.jpg
-│   │   │   │   ├── corner sofa.jpg
-│   │   │   │   ├── double bed.jpg
-│   │   │   │   ├── flower.jpg
-│   │   │   │   ├── kitchen table 2.jpg
-│   │   │   │   ├── kitchen table.jpg
-│   │   │   │   ├── office chair.jpg
-│   │   │   │   ├── plants.jpg
-│   │   │   │   ├── set of tea table and three chairs.jpg
-│   │   │   │   ├── set of tea table and two chairs.jpg
-│   │   │   │   ├── sofa.jpg
-│   │   │   │   ├── strange table.jpg
-│   │   │   ├── Not found image.png
-│   │   ├── js/
-│   │   │   ├── bootstrap/
-│   │   │   │   ├── bootstrap.bundle.min.js
-│   │   │   ├── jquery/
-│   │   │   │   ├── jquery-3.7.0.min.js
-│   │   │   ├── jquery-ajax.js
-
 ├── templates/
 │   ├── base.html
 │   ├── includes/
