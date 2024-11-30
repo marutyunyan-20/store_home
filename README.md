@@ -153,6 +153,7 @@ pip install -r requirements.txt
 Windows:
 ```bash
 python manage.py runserver 
+```
 
 Linux и MacOS-systems:
 ```bash
