@@ -149,7 +149,12 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-3. Запустите бота:
+3. Запустите :
 Windows:
 ```bash
-python manage.py 
+python manage.py runserver 
+
+Linux и MacOS-systems:
+```bash
+python3 manage.py runserver
+```
