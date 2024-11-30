@@ -128,7 +128,7 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/marutyunyan-20/PathP_Pizza_bot_test.git.
+git clone https://github.com/marutyunyan-20/store_home.git
 ```
 
 2.Создайте и активируйте свою виртуальную среду:
