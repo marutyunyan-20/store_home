@@ -34,7 +34,7 @@ SECRET_KEY = "django-insecure-ld)8k$gfoow^#9-6mm@palg6l9d)&l!5ng#m2@=msxhq353g#2
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["*"]
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
@@ -58,7 +58,7 @@ INSTALLED_APPS = [
     "allauth.account",
     "allauth.socialaccount",
     "allauth.socialaccount.providers.google",
-    "allauth.socialaccount.providers.facebook",
+    # "allauth.socialaccount.providers.facebook",
     "allauth.socialaccount.providers.github",
 ]
 
@@ -189,7 +189,7 @@ AUTHENTICATION_BACKENDS = [
 ]
 
 
-SITE_ID = 3
+SITE_ID = 7
 
 
 # Provider specific settings
